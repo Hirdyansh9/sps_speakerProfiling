@@ -58,7 +58,7 @@ Evaluate trained models on the test set:
 
 ## Results
 
-Refer to the [final report](report/final_report.md) for detailed performance tables:
+Refer to the final report for more details:
 
 | Model                 | Age RMSE | Gender Accuracy | Height RMSE |
 |-----------------------|----------|-----------------|-------------|
