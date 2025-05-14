@@ -62,8 +62,8 @@ Refer to the final report for more details:
 
 | Model                 | Age RMSE | Gender Accuracy | Height RMSE |
 |-----------------------|----------|-----------------|-------------|
-| BiLSTM (2-layer)      | 8.52     | 65.85%          | 9.10 cm     |
-| Transformer (6-layer) | 8.53     | 65.85%          | 9.05 cm     |
+| BiLSTM                | 8.52     | 65.85%          | 9.10 cm     |
+| Transformer           | 8.53     | 65.85%          | 9.05 cm     |
 | WavLM + Conformer     | 7.44     | 99.45%          | 7.37 cm     |
 
 
