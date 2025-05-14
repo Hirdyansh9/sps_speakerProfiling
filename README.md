@@ -73,5 +73,6 @@ Refer to the final report for more details:
 - Kinnunen, T., et al. (2010). Speaker Embeddings for Age and Gender Classification. [Link](https://ieeexplore.ieee.org/document/5555555)  
 - Ali, S., et al. (2019). Multi-Task CNNs for Age, Gender, and Emotion Recognition in Speech. [Link](https://dl.acm.org/doi/10.1145/3343043)  
 - Baevski, A., et al. (2020). wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations. [Link](https://arxiv.org/abs/2006.11477)  
-- Chen, Z., et al. (2022). WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing. [Link](https://arxiv.org/abs/2110.13900)  
+- Chen, Z., et al. (2022). WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing. [Link](https://arxiv.org/abs/2110.13900)
+- Rajaa, P., et al. (2021). Learning Speaker Representation with Semi-supervised Learning approach for Speaker Profiling. [Link](https://arxiv.org/pdf/2110.13653)
 
