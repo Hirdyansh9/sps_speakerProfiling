@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+torch
+librosa
+soundfile
+python-multipart
+torchaudio
+transformers
+pydub
