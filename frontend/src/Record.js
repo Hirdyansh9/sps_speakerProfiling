@@ -1,3 +1,6 @@
+//Record.js
+
+
 import React, { useState } from 'react';
 
 function Record({ setResult }) {
@@ -48,7 +51,7 @@ function Record({ setResult }) {
       </button>
       {audioBlob && <button onClick={sendAudio}>Analyze</button>}
     </div>
-  );
+);
 }
 
 export default Record;
