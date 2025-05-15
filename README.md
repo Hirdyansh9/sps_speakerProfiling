@@ -17,7 +17,7 @@ All the project assets are accessible [here](https://drive.google.com/drive/fold
 ## Project Overview
 Predicting demographic attributes from speech has applications in security, authentication, personalization, and accessibility. In this project, three architectures have been implemented and evaluated:
 
-1. **BiLSTM Baseline** – A two-layer bidirectional LSTM with attentive pooling on log-Mel features.  
+1. **BiLSTM Baseline** – A 2/3/4-layer bidirectional LSTM with attentive pooling on log-Mel features.  
 2. **Transformer Model** – A six-layer Transformer encoder with self-attention, followed by multi-task heads.  
 3. **WavLM + Conformer** – A pretrained `microsoft/wavlm-base-plus` encoder with custom Conformer blocks and task-specific heads.
 
